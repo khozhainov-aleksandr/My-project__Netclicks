@@ -1,1 +1,1 @@
-# 🔗 [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# 🔗 [DEMO LINK](https://khozhainov-aleksandr.github.io/My-project__Netclicks/)
